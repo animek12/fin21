@@ -20,18 +20,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Yan Xiao
-${htjava} *✉️ Nama RL* : Rahasia🗿
+${htjava} *💌 Nama* : FIN
+${htjava} *✉️ Nama RL* : Alfin
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2004
+${htjava} *⏰ Tanggal lahir* : 15 july 2005
 ${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : 12
-${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
-${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
+${htjava} *🧮 Kelas* : 11
+${htjava} *🧩 Hobby* : Nonton anime, Chatting, Musik
+${htjava} *💬 Sifat* : unknown
+${htjava} *🗺️ Tinggal* : Indo, kaltim, samarinda
 ${htjava} *❤️ Suka* : kucing
-${htjava} *💔 Benci* : autis, seleb
+${htjava} *💔 Benci* : tergantung
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Fay Cat's Kun
